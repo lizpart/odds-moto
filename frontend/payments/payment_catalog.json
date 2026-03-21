@@ -1,0 +1,10 @@
+{
+  "1": {
+    "name": "Basic (EPL)",
+    "amount_ksh": 10
+  },
+  "2": {
+    "name": "Premium (All Leagues)",
+    "amount_ksh": 30
+  }
+}

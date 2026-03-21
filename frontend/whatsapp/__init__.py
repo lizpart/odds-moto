@@ -1,0 +1,3 @@
+"""
+WhatsApp package initialization
+"""

@@ -1,0 +1,25 @@
+2025/12/30-00:56:36.684 4200 Reusing MANIFEST C:\Users\jacob\Desktop\scraper-final-serper-latest\frontend\data\whatsapp_sessions\chrome_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/30-00:56:36.686 4200 Recovering log #78
+2025/12/30-00:56:36.786 4200 Reusing old log C:\Users\jacob\Desktop\scraper-final-serper-latest\frontend\data\whatsapp_sessions\chrome_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000078.log 
+2025/12/30-00:56:37.313 44b0 Level-0 table #84: started
+2025/12/30-00:56:37.356 44b0 Level-0 table #84: 1046853 bytes OK
+2025/12/30-00:56:37.357 44b0 Delete type=0 #78
+2025/12/30-00:56:37.358 4200 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/30-00:56:37.365 4200 Level-0 table #86: started
+2025/12/30-00:56:37.368 4200 Level-0 table #86: 444 bytes OK
+2025/12/30-00:56:37.369 4200 Delete type=0 #83
+2025/12/30-00:56:37.370 4200 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at '\x00&\x00\x00\x05' @ 185972 : 0
+2025/12/30-00:56:37.370 4200 Compacting 1@0 + 1@1 files
+2025/12/30-00:56:37.406 4200 Generated table #87@0: 21512 keys, 532644 bytes
+2025/12/30-00:56:37.406 4200 Compacted 1@0 + 1@1 files => 532644 bytes
+2025/12/30-00:56:37.407 4200 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/30-00:56:37.408 4200 Delete type=2 #86
+2025/12/30-00:56:37.408 44b0 Manual compaction at level-0 from '\x00&\x00\x00\x05' @ 185972 : 0 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/30-00:56:37.421 44b0 Compacting 1@1 + 1@2 files
+2025/12/30-00:56:37.484 44b0 Generated table #88@1: 32156 keys, 1323694 bytes
+2025/12/30-00:56:37.484 44b0 Compacted 1@1 + 1@2 files => 1323694 bytes
+2025/12/30-00:56:37.485 44b0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/30-00:56:37.486 44b0 Delete type=2 #81
+2025/12/30-00:56:37.486 44b0 Delete type=2 #84
+2025/12/30-00:56:37.486 44b0 Delete type=2 #87
+2025/12/30-01:01:40.305 44b0 Manual compaction at level-0 from '\x00(\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00)\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,3 @@
+"""
+Telegram package initialization
+"""

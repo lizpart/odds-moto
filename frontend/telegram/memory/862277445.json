@@ -1,0 +1,12 @@
+{
+  "user_id": "862277445",
+  "state": "payment_pending",
+  "updated_at": "2026-03-21T14:21:00.329067+00:00",
+  "tier": 1,
+  "package": "1",
+  "amount": 10,
+  "phone_number": "+254793814448",
+  "payment_reference": "b6jdai96qx8pfgl",
+  "payment_status": "pay_offline",
+  "payment_message": "Please complete authorization process on your mobile phone"
+}

@@ -1,0 +1,13 @@
+{
+  "user_id": "941460796",
+  "state": "payment_confirmed",
+  "updated_at": "2026-03-20T23:46:22.917812+00:00",
+  "tier": 1,
+  "amount": 10,
+  "subscription_expires_at": "2026-03-21T23:59:59+03:00",
+  "package": "1",
+  "phone_number": "+254791083912",
+  "payment_reference": "nljmam8r2vnwyoy",
+  "payment_status": "success",
+  "payment_message": "Please complete authorization process on your mobile phone"
+}
