@@ -1,0 +1,69 @@
+================================================================================
+ENHANCED PSYCHOLOGICAL BETTING ANALYSIS
+================================================================================
+
+Match: Brentford vs Bournemouth
+Generated: 2026-03-27 08:36:29
+Match Date: Unknown Date
+Venue: Unknown Venue
+League: Unknown League
+Match ID: Unknown_ID
+
+================================================================================
+PSYCHOLOGICAL PROFILE SUMMARY
+================================================================================
+
+HOME TEAM: Brentford
+Performance Modifier: 0.64
+Affected Players: 1
+Key Players Affected: 0
+Morale: 0.50
+Fan Sentiment: neutral
+
+AWAY TEAM: Bournemouth
+Performance Modifier: 0.64
+Affected Players: 1
+Key Players Affected: 0
+Morale: 0.50
+Fan Sentiment: neutral
+
+================================================================================
+AI ANALYSIS
+================================================================================
+
+MATCH: Brentford vs Bournemouth
+PSYCHOLOGICAL IMPACT SUMMARY:
+- Home Team: Brentford's morale score of 0.50/1.0 and neutral fan sentiment may contribute to a somewhat lukewarm performance. The affected player dealing with poor form could further impact the team's overall performance, but the medium impact level suggests it may not be drastic.
+- Away Team: Bournemouth shares similar psychological profiles with Brentford, including a morale score of 0.50/1.0 and neutral fan sentiment. The away team also has a player dealing with poor form, which could affect their performance. However, the lack of recent controversy and similar performance modifiers to Brentford suggest a closely matched psychological state between the two teams.
+
+PERFORMANCE MODIFIERS:
+- Home Team Modifier: 0.64 (64% of optimal performance)
+- Away Team Modifier: 0.64 (64% of optimal performance)
+
+ADJUSTED WIN PROBABILITY: Home 40% | Draw 30% | Away 30%
+
+SCRAPED ODDS ANALYSIS: Given the lack of specific scraped odds, we'll focus on the general market trends. Typically, matches with such similar psychological profiles and performance modifiers might see odds reflecting a close contest. However, the market might slightly favor the home team due to the general home advantage, potentially underestimating the psychological factors affecting both teams equally.
+
+RECOMMENDED BETS (With Confidence Level):
+1. **Draw @ 3.20** - Confidence: Medium - Reasoning: Given the similar psychological states, performance modifiers, and the fact that both teams have players dealing with poor form, a draw seems like a plausible outcome.
+2. **Under 2.5 Goals @ 1.80** - Confidence: High - Reasoning: The performance modifiers of 0.64 for both teams suggest that they are not operating at their full potential, which could lead to a more cautious approach and fewer goals.
+3. **Brentford to Score Under 1.5 Goals @ 1.60** - Confidence: Medium - Reasoning: Considering Brentford's affected player and the team's overall morale, they might struggle to score multiple goals.
+4. **Bournemouth to Score Under 1.5 Goals @ 1.60** - Confidence: Medium - Reasoning: Similar to Brentford, Bournemouth's psychological state and affected player could limit their scoring potential.
+5. **Both Teams to Score: No @ 2.10** - Confidence: Low - Reasoning: While the teams' psychological states and performance modifiers suggest a tight match, the odds for this bet might not fully reflect the potential for a low-scoring game where one team fails to score.
+
+DETAILED ANALYSIS:
+The psychological factors in this match suggest a closely contested game with both teams operating below their optimal performance levels. The similar morale scores, neutral fan sentiment, and presence of players dealing with poor form on both sides contribute to this assessment. The traditional statistical factors, such as head-to-head records, are not provided, but given the equal performance modifiers and psychological states, these factors might not significantly sway the outcome.
+
+The recommendations focus on the likelihood of a draw or low-scoring outcomes, reflecting the teams' reduced performance capacities due to psychological factors. The confidence in these bets is moderated by the uncertainty surrounding the exact impact of these factors on the game's dynamics.
+
+KEY INSIGHTS:
+- The equal performance modifiers and similar psychological profiles of both teams suggest a closely matched contest.
+- The presence of players dealing with poor form on both sides could lead to a more defensive or cautious approach, potentially resulting in fewer goals.
+- The market might underestimate the psychological factors affecting both teams, providing value in bets that reflect a closer or lower-scoring match than expected.
+
+================================================================================
+DISCLAIMER
+================================================================================
+This analysis incorporates psychological factors and is AI-generated.
+Odds are illustrative. Always verify with bookmakers and bet responsibly.
+Past performance and psychological factors do not guarantee future results.

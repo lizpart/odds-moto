@@ -26,22 +26,11 @@ ENV/
 football_scraper.log
 api.log
 
-# Output files
-output/*.md
-output/*.txt
-!output/.gitkeep
-
-# Cache
-cache/
-*.cache
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Config (keep example)
-config.json
-!config.json.example
 
 # Test coverage
 .coverage

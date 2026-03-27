@@ -1,0 +1,71 @@
+{
+  "openai_api_key": "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",
+  "llm": {
+    "provider": "groq",
+    "base_url": "https://api.groq.com/openai/v1",
+    "model": "deepseek-r1-distill-llama-70b",
+    "max_tokens": 1000,
+    "temperature": 0.7
+  },
+  "api_football": {
+    "api_key": "8b93c675a3e53c02ec3afbe230cee91e",
+    "base_url": "https://v3.football.api-sports.io",
+    "rate_limit_per_minute": 30,
+    "enabled": true,
+    "cache_enabled": true,
+    "cache_expiry_seconds": 1800
+  },
+  "serper": {
+    "api_key": "a93463200bc7ee8e3671360935a5fac063a308e2",
+    "base_url": "https://google.serper.dev",
+    "enabled": true
+  },
+  "browser": {
+    "headless": true,
+    "viewport_width": 1280,
+    "viewport_height": 720,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+    "timeout": 30000,
+    "js_timeout": 30000
+  },
+  "search": {
+    "sleep_interval": 5,
+    "num_results": 3,
+    "queries": {
+      "player_health": "{team_name} football team injury news update current",
+      "weather_forecast": "weather forecast {venue_city} {match_date}",
+      "pitch_conditions": "{venue_name} stadium pitch condition football",
+      "team_news": "{team_name} football team news latest updates",
+      "head_to_head": "{home_team} vs {away_team} football history head to head"
+    }
+  },
+  "markdown": {
+    "pruning_threshold": 0.45,
+    "threshold_type": "dynamic",
+    "min_word_threshold": 5,
+    "body_width": 80
+  },
+  "cache": {
+    "enabled": true,
+    "expiry_seconds": 3600
+  },
+  "cache_dir": "cache",
+  "output_dir": "output",
+  "retry": {
+    "max_attempts": 3,
+    "delay_seconds": 2
+  },
+  "sleep": {
+    "between_requests": 1,
+    "jitter": 0.5
+  },
+  "data_sources": {
+    "primary": "api_football",
+    "fallback_to_scraper": true,
+    "scraper_only_data": [
+      "weather_forecast",
+      "pitch_conditions",
+      "latest_news"
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+================================================================================
+ENHANCED PSYCHOLOGICAL BETTING ANALYSIS
+================================================================================
+
+Match: Brentford vs Bournemouth
+Generated: 2026-03-27 08:37:10
+Match Date: Unknown Date
+Venue: Unknown Venue
+League: Unknown League
+Match ID: Unknown_ID
+
+================================================================================
+PSYCHOLOGICAL PROFILE SUMMARY
+================================================================================
+
+HOME TEAM: Brentford
+Performance Modifier: 0.64
+Affected Players: 1
+Key Players Affected: 0
+Morale: 0.50
+Fan Sentiment: neutral
+
+AWAY TEAM: Bournemouth
+Performance Modifier: 0.64
+Affected Players: 1
+Key Players Affected: 0
+Morale: 0.50
+Fan Sentiment: neutral
+
+================================================================================
+AI ANALYSIS
+================================================================================
+
+MATCH: Brentford vs Bournemouth
+PSYCHOLOGICAL IMPACT SUMMARY:
+- Home Team: Brentford's psychological state is neutral with a morale score of 0.50/1.0. The team's performance modifier is 0.64, indicating 64% of optimal performance. Key player issues, such as poor form, may impact the team's overall performance.
+- Away Team: Bournemouth's psychological state is also neutral with a morale score of 0.50/1.0 and a performance modifier of 0.64. Similar to Brentford, Bournemouth's players are dealing with poor form, which may affect their performance.
+
+PERFORMANCE MODIFIERS:
+- Home Team Modifier: 0.64 (64% of optimal performance)
+- Away Team Modifier: 0.64 (64% of optimal performance)
+
+ADJUSTED WIN PROBABILITY: Home 42% | Draw 31% | Away 27%
+
+SCRAPED ODDS ANALYSIS: Given the neutral morale scores and similar performance modifiers, the market odds seem to be evenly matched. However, considering the psychological factors, there might be value in betting on the draw, as both teams are dealing with similar issues.
+
+RECOMMENDED BETS (With Confidence Level):
+1. Draw @ 3.20 - Confidence: Medium - Reasoning: Both teams have similar performance modifiers and morale scores, indicating a closely contested match.
+2. Under 2.5 goals @ 1.80 - Confidence: High - Reasoning: The poor form of key players and the teams' neutral morale scores may lead to a low-scoring match.
+3. Brentford to win or draw @ 1.40 - Confidence: Medium - Reasoning: Considering the home advantage and the teams' similar psychological states, Brentford has a slight edge.
+4. Bournemouth to win or draw @ 1.30 - Confidence: Low - Reasoning: Although Bournemouth has a similar psychological profile, their away form might be a concern.
+5. Both teams to score @ 1.90 - Confidence: Medium - Reasoning: Despite the poor form, both teams have the potential to score, given their neutral morale scores and similar performance modifiers.
+
+DETAILED ANALYSIS:
+The psychological profiles of both teams indicate a neutral state with similar performance modifiers. The key player issues, such as poor form, may impact the teams' overall performance. However, the morale scores and fan sentiment are neutral, which might help the teams to perform closer to their optimal levels. The statistical data is limited, but the head-to-head records are not available. Considering the traditional statistical factors, such as home advantage and recent form, Brentford might have a slight edge. However, the psychological factors, such as poor form and neutral morale scores, may lead to a closely contested match.
+
+KEY INSIGHTS:
+- The similar psychological profiles and performance modifiers of both teams indicate a closely contested match.
+- The poor form of key players may impact the teams' overall performance, leading to a low-scoring match.
+- The neutral morale scores and fan sentiment may help the teams to perform closer to their optimal levels.
+- The market odds seem to be evenly matched, but there might be value in betting on the draw or under 2.5 goals.
+
+================================================================================
+DISCLAIMER
+================================================================================
+This analysis incorporates psychological factors and is AI-generated.
+Odds are illustrative. Always verify with bookmakers and bet responsibly.
+Past performance and psychological factors do not guarantee future results.

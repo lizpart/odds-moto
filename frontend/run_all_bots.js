@@ -139,6 +139,13 @@ async function main() {
 
     const bots = [
         {
+            name: 'API Server',
+            cwd: path.join(__dirname, '..'),
+            cmd: resolvePythonExecutable(),
+            args: ['run_api.py'],
+            env: { ...process.env },
+        },
+        {
             name: 'WhatsApp Bot',
             cwd: path.join(__dirname, 'whatsapp'),
             cmd: 'node',
@@ -157,9 +164,10 @@ async function main() {
     bots.forEach((bot) => startBot(bot));
 
     console.log('='.repeat(60));
-    console.log('All bots are running');
+    console.log('All services are running');
     console.log('='.repeat(60));
-    console.log('\nWhatsApp: Scan QR code in the terminal/browser window');
+    console.log('\nAPI Server: http://localhost:8000');
+    console.log('WhatsApp: Scan QR code in the terminal/browser window');
     console.log('Telegram: @YourBotName\n');
 }
 

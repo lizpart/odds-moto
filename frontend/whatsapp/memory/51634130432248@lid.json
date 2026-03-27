@@ -1,14 +1,14 @@
 {
   "wa_id": "51634130432248@lid",
   "state": "payment_confirmed",
-  "updated_at": "2026-03-21T20:16:03.346Z",
+  "updated_at": "2026-03-27T16:23:33.556Z",
   "tier": 1,
   "package": "1",
   "amount": 10,
   "phone": "+254793814448",
-  "payment_reference": "gnzorn7amj1rrz7",
-  "payment_status": "failed",
+  "payment_reference": "jpi9w1maazf6fnq",
+  "payment_status": "success",
   "last_payment_error": null,
   "activation_phone": null,
-  "subscription_expires_at": "2026-03-21T23:59:59+03:00"
+  "subscription_expires_at": "2026-03-27T23:59:59+03:00"
 }

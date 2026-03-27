@@ -1,8 +1,8 @@
 {
-  "wa_id": "255095673483303@lid",
-  "state": "payment_confirmed",
-  "updated_at": "2026-03-20T17:08:13.074Z",
-  "tier": 1,
-  "amount": 10,
-  "subscription_expires_at": "2026-03-20T20:59:59.999Z"
+    "wa_id":  "255095673483303@lid",
+    "state":  "payment_confirmed",
+    "updated_at":  "2026-03-27T18:09:11.652Z",
+    "tier":  1,
+    "amount":  10,
+    "subscription_expires_at":  "2026-03-28T18:09:11.607Z"
 }
